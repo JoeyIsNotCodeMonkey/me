@@ -1,7 +1,7 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: 
+baseurl: /me
 
 # Site live URL
 url: http://joeyisnotcodemonkey.github.io/me/
