@@ -1,10 +1,10 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
-baseurl: /harmony
+baseurl: /me
 
 # Site live URL
-url: http://gayan.me
+url: http://joeyisnotcodemonkey.github.io/me/
 
 # Localhost 
 # url: http://127.0.0.1:4000  
