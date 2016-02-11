@@ -3,10 +3,10 @@
   <channel>
     <title></title>
     <description>Harmony is free responsive jekyll theme.</description>
-    <link>http://gayan.me/harmony/</link>
-    <atom:link href="http://gayan.me/harmony/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 10 Feb 2016 23:27:05 -0500</pubDate>
-    <lastBuildDate>Wed, 10 Feb 2016 23:27:05 -0500</lastBuildDate>
+    <link>http://joeyisnotcodemonkey.github.io/me//me/</link>
+    <atom:link href="http://joeyisnotcodemonkey.github.io/me//me/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 10 Feb 2016 23:42:32 -0500</pubDate>
+    <lastBuildDate>Wed, 10 Feb 2016 23:42:32 -0500</lastBuildDate>
     <generator>Jekyll v3.0.3</generator>
     
       <item>
@@ -69,8 +69,8 @@
 &lt;p&gt;Want me to suggest something? Please &lt;a href=&quot;https://github.com/web-create/harmony/issues/new&quot;&gt;Send me a request&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 19 Aug 2014 19:56:45 -0400</pubDate>
-        <link>http://gayan.me/harmony/sample-post</link>
-        <guid isPermaLink="true">http://gayan.me/harmony/sample-post</guid>
+        <link>http://joeyisnotcodemonkey.github.io/me//me/sample-post</link>
+        <guid isPermaLink="true">http://joeyisnotcodemonkey.github.io/me//me/sample-post</guid>
         
         
         <category>blog</category>
@@ -90,8 +90,8 @@
 
 </description>
         <pubDate>Mon, 28 Jul 2014 18:48:45 -0400</pubDate>
-        <link>http://gayan.me/harmony/blog/jekyll/2014/07/28/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://gayan.me/harmony/blog/jekyll/2014/07/28/welcome-to-jekyll/</guid>
+        <link>http://joeyisnotcodemonkey.github.io/me//me/blog/jekyll/2014/07/28/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://joeyisnotcodemonkey.github.io/me//me/blog/jekyll/2014/07/28/welcome-to-jekyll/</guid>
         
         
         <category>blog</category>
