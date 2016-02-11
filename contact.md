@@ -5,8 +5,6 @@ permalink: /contact/
 ---
 
 
-### Contact me
-
 Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
 [gayanvirajith@gmail.com](gayanvirajith@gmail.com).
 
