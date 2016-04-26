@@ -2,96 +2,225 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <description>Harmony is free responsive jekyll theme.</description>
-    <link>http://joeyisnotcodemonkey.github.io/me/</link>
-    <atom:link href="http://joeyisnotcodemonkey.github.io/me/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 11 Feb 2016 00:48:43 -0500</pubDate>
-    <lastBuildDate>Thu, 11 Feb 2016 00:48:43 -0500</lastBuildDate>
-    <generator>Jekyll v3.0.3</generator>
+    <description>Software Engineer Student at Stony Brook University</description>
+    <link>http://127.0.0.1:4000/harmony/</link>
+    <atom:link href="http://127.0.0.1:4000/harmony/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 26 Apr 2016 00:05:06 -0400</pubDate>
+    <lastBuildDate>Tue, 26 Apr 2016 00:05:06 -0400</lastBuildDate>
+    <generator>Jekyll v3.0.4</generator>
     
       <item>
-        <title>Sample post from harmony</title>
-        <description>&lt;p&gt;Just a sample post to show some of the &lt;em&gt;typography&lt;/em&gt; elements supported from 
-&lt;strong&gt;harmony&lt;/strong&gt; theme.&lt;/p&gt;
+        <title>Stony Brook University&#39;s Tobacco-Free Policy Starting in January 1, 2016</title>
+        <description>&lt;h2 id=&quot;stony-brook-is-going-to-implement-a-tobacco-free-policy-on-january-1-2016-which-includes-all-tobacco-and-smokevapor-producing-products&quot;&gt;Stony Brook is going to implement a tobacco-free policy on January 1, 2016, which includes all tobacco and smoke/vapor-producing products.&lt;/h2&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;Stony Brook University decided to publish a new tobacco-free policy based on the resolution in 2012 expressing “support of a tobacco-free SUNY policy and the enactment of legislation that bans the use of tobacco on grounds and facilities, and in vehicles owned, leased or controlled by the State University or its related entities.” In fact, SUNY state university have been working on the implementation of their own policy, and we are glad to announce that Stony Brook University eventually trod this important step. The tobacco-free policy will officially start in January 1, 2016.&lt;/p&gt;
 
-&lt;p&gt;A blockquote:&lt;/p&gt;
+&lt;p&gt;It is a known fact that tobacco smoking has many disadvantages. A lot of research reported that tobacco can potentially cause many health problems such as lung cancer. Moreover, the secondhand smoke increases the risk of heart attack and other heart problems. Besides, it is a large cost for school to clean and repair the damages caused by the use of tobacco. Banning the use of tobacco will effectively reduce the cost on these maintaining work, while spend these savings in more meaningful ways. For your own sake, quit smoking will effectively improve your health status, and save more than $3,500 a year. Stony Brook Univeristy used to offer smokers certain indoor and outdoor areas for quite a long time. These places are no longer available for smoking once the tobacco-free policy starts. Smoking will be a hundred percent forbidden in Stony Brook campus area.&lt;/p&gt;
+
+&lt;p&gt;Banning the use of tobacco is not intended to force student stop smoking in campus or using tobacco outside of campus. Our original intention was to help students learn how to reduce the use of tobacco. Besides, it is respection to the people who have the rights to refuse the secondhand smoke. We realized that quitting smoking is a quite difficult long term task, since most addicted smokers complain that smoking is so hard to get rid of. Therefore, Stony Brook University will offer tobacco use cessation assistance for severely addicted smokers. You can find help in Student Health Service, “Healthier U” and Employee Health Service at Stony Brook University Hospital. The Counseling and Psychological Services (CAPS) Health Education Office is hosting weekly workshops to learn how to be tobacco free, Tuesdays from 1:00 pm to 1:53 pm, beginning November 24, 2015. Registration is required. It also provides a 24-hour access hotline or anyone needing assistance including smoking cessation. Besides, you can also join our learn to be tobacco-free smoking cessation program at Stony Brook Education Center.&lt;/p&gt;
+
+&lt;p&gt;We believe that tobacco-free policy will return a more clean and healthy study environment to students. All members in Stony Brook University must follow the principle that tobacco use is not accepted at Stony Brook University.&lt;/p&gt;
+
+&lt;p&gt;About Stony Brook University:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Donec in mollis eros, nec rutrum turpis. &lt;strong&gt;Curabitur&lt;/strong&gt; sem elit, semper nec volutpat quis, laoreet et sapien. In felis erat, rhoncus sed pellentesque mollis, tincidunt quis elit.
-- By Someone&lt;/p&gt;
+  &lt;p&gt;The State University of New York at Stony Brook (also referred to as Stony Brook University, SUNY Stony Brook, SBU) is a public sea-grant and space-grant research university located in Stony Brook, New York in the United States. It is part of the State University of New York (SUNY) system. The institution was founded in 1957 in Oyster Bay as State University College on Long Island. What would become the university moved to Stony Brook in 1962.
+Visit our website at: http://www.stonybrook.edu/
+See more details about tobacco-free policy in Stony Brook University at: http://www.stonybrook.edu/commcms/tobaccofree/&lt;/p&gt;
 &lt;/blockquote&gt;
-
-&lt;h2 id=&quot;header-2&quot;&gt;Header 2&lt;/h2&gt;
-
-&lt;p&gt;Duis lacinia commodo dui, vel aliquam metus hendrerit eu. Integer et scelerisque dui. Sed nec molestie quam. Donec sit amet nisl a massa commodo ultrices nec quis nunc. Aenean aliquet eu arcu adipiscing dignissim. Nunc dictum elit vitae dolor molestie aliquet.&lt;/p&gt;
-
-&lt;p&gt;Example code:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;A list:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Praesent nisi elit, bibendum ut consectetur ac, aliquet in nunc&lt;/li&gt;
-  &lt;li&gt;Donec ante est, volutpat in mi et, pulvinar congue dolor.&lt;/li&gt;
-  &lt;li&gt;Quisque ultrices pulvinar sollicitudin.&lt;/li&gt;
-  &lt;li&gt;Duis elementum odio eu euismod suscipit.&lt;/li&gt;
-  &lt;li&gt;Integer enim lorem, interdum sit amet consectetur non, bibendum eget neque.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;A numbered list:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Praesent nisi elit, bibendum ut consectetur ac, aliquet in nunc.&lt;/li&gt;
-  &lt;li&gt;Donec ante est, volutpat in mi et, pulvinar congue dolor.&lt;/li&gt;
-  &lt;li&gt;Quisque ultrices pulvinar sollicitudin.&lt;/li&gt;
-  &lt;li&gt;Duis elementum odio eu euismod suscipit.&lt;/li&gt;
-  &lt;li&gt;Integer enim lorem, interdum sit amet consectetur non, bibendum eget neque.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Definition list:&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;Curabitur cursus magna eu sem cursus&lt;/dt&gt;
-  &lt;dd&gt;ac ultrices urna pharetra.&lt;/dd&gt;
-  &lt;dd&gt;Duis scelerisque ipsum eu luctus elementum.&lt;/dd&gt;
-  &lt;dt&gt;Pellentesque habitant morbi tristique senectus&lt;/dt&gt;
-  &lt;dd&gt;Curabitur malesuada lacus ac gravida porttitor&lt;/dd&gt;
-  &lt;dd&gt;Duis sodales feugiat lorem et mollis.&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Want me to suggest something? Please &lt;a href=&quot;https://github.com/web-create/harmony/issues/new&quot;&gt;Send me a request&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 19 Aug 2014 19:56:45 -0400</pubDate>
-        <link>http://joeyisnotcodemonkey.github.io/me/sample-post</link>
-        <guid isPermaLink="true">http://joeyisnotcodemonkey.github.io/me/sample-post</guid>
+        <pubDate>Mon, 25 Apr 2016 17:59:45 -0400</pubDate>
+        <link>http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/press-release/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/press-release/</guid>
         
         
         <category>blog</category>
         
+        <category>jekyll</category>
+        
       </item>
     
       <item>
-        <title>What is Jekyll!</title>
-        <description>&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. Here is a little quote from the official website:&lt;/p&gt;
+        <title>Research Proposal on Artificial Intelligence Ethics</title>
+        <description>&lt;p&gt;Artificial Intelligence has been a hot-debated topic for years since this concept came up. During past decades, it not only made a huge progress on scientific field, but also provided loads of resources for literature works. Literature works are a kind of reflection of the actual scientific progress on AI more or less. Some of them displayed a positive prospect of the human future with the help of AI, while others are more prefer the opinion that human being will be destroyed by ultimate AI eventually. Especially recently, the chess competition between “Alphago” which is an AI developed by google and Lee Seldo who is the one of the best chess player once more impressed the world that how AI made a huge progress these years. However, we have to go back to the actual science rather than simply literature work if we want to do some serious research. This study will employ research to identify the potential threat of AI to human being, and available approaches to balance the AI ethics and the potential huge power behind it.&lt;/p&gt;
+
+&lt;p&gt;Many researches about potential threat that human will confront when the AI became stronger have been done. In the research “AI Ethics: Science Fiction Meets Technological Reality” (Daniel Zeng), it summarized from a great amount of work contributed by scientists and also researcher in philosophy and literature. He concluded that an almost mature AI system were established, nevertheless, there are still six major threads. More specifically, in terms of the technique itself, it is hard to control the growth of AI once it starts to build itself increasingly powerful. Besides, the development of AI will bring a series of social problem. For example, the growth of AI in manufactory will decrease the job opportunity for humans, and the increasing use of robots as weapon to against humans. Moreover, current human legal system is hard to apply to AI as well as the human value. A very famous case is whether a driverless car should protect its passengers or the people outside the car when emergency happens. Similar research are also found in “Rise of Concerns about AI: Reflections and Directions” (Thomas G.Dietterich and Eric J. Horvitz). Excluded the thread that we discussed before, this research also talked about the bug and cybersecurity issue of AI. These threads are common in any software engineer field. The requirement of precise algorithm of AI need to be same or even higher than the spacecraft system. More than that, there are still lots of unpredictable situation that hard to be handled. The AI algorithm is also as vulnerable as any other normal program. 
+To solve those problems, scientists also did some research to find out way to reduce the thread and balance the relationship between AI and human being. In research “Safety Engineering for Artificial General Intelligence” (Roman Yampolskiy and Joshua Fox), instead of trying to limit the power of AI or make more complex algorithm to control AI like most research did, the author proposed a new science of safety engineering for intelligent artificial agents based on maximizing the human value, since they believe that no such algorithm can handle all the complex and unpredictable situations. They believe that safety engineer is the new branch of AI study that can prevent AI to change themselves more against human, and provide more safe research environment on AI study.&lt;/p&gt;
+
+&lt;p&gt;From what we know so far, the potential risk of AI is majorly about the technique itself and the negative social influence. For techniques, I would study more deeply on the potential bugs and what coding convention and data structure could better avoid those potential error during developing an AI. Meanwhile, I will combine my study with the cybersecurity, since most malicious attack use the safety flaw which could be caused by any bugs from program. Besides, the safety engineer is a very interesting topic that I want to focus on, in order to  discover the approaches to enhance the safety of research and combine the human value to the study of the AI development. I believe if I discover more deeply based on most common techniques such as class algorithms to control AI, and meantime discover more on the new ideas such as safety engineer, it will make me get twice the result with half the effort. Also, the research such as “AI Ethics: Science Fiction Meets Technological Reality” (Daniel Zeng) lacks of specific data to support its argument when it talks about the decreasing employment in human world. I will collect more accurate data and display them in my research in a clear format such as table or graph.&lt;/p&gt;
+
+&lt;p&gt;To achieve the research goals, I will mainly use internet to look for the source I need. The local news and documentation that records the trend of employment and the automation of local factory will be a good resource to study the economic effects that AI caused. Since I am a software engineer student,  I need at least one group mate who has background on machine learning to compensate my lack of computer engineer knowledge. We will find more research about the algorithms design as our main line, and also study the code to implement the algorithm. I will take the responsibility of software part while my partner will focus on the machine language. Last but not least, we still need to read more about the safety engineer, since it is a new area and lots of concepts behind this theory is very new and worthy to learn more. I plan to take one semester and ten to fifteen hours each week to study on this topic coordinate with my group mate.&lt;/p&gt;
+
+&lt;p&gt;To sum up, my research will ends up providing more accurate data about how AI affects human being. As we are not experts on this fields, we might will not contributes too much on the current work for now, however, we at least will implement couple of classic AI algorithm model, and the common bugs that developer will easily make when they are new to this field. This is a good resource to the future researcher who is as new as me to study this field. Therefore, I believe my research will eventually give a good example to those people who have related background and interested to start the study on AI safety and ethics, and lay the foundation for the future research on AI topic.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It takes a template directory containing raw text files in various formats, runs it through &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;&gt;Markdown&lt;/a&gt; (or &lt;a href=&quot;http://redcloth.org/textile&quot;&gt;Textile&lt;/a&gt;) and Liquid converters, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server. Jekyll also happens to be the engine behind &lt;a href=&quot;http://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt;, which means you can use Jekyll to host your project’s page, blog, or website from GitHub’s servers for free.
-- jekyllrb.com&lt;/p&gt;
+  &lt;p&gt;Zeng, Daniel. “AI Ethics: Science Fiction Meets Technological Reality.” IEEE Intelligent Systems 3 (2015): 2. Academic OneFile. Web. 1 Apr. 2016.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Dietterich, Thomas G., and Eric J. Horvitz. “Rise of concerns about AI: reflections and directions.” Communications of the ACM 2015: 38. Academic OneFile. Web. 1 Apr. 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Yampolskiy, Roman1, roman.yampolskiy@louisville.edu, and Joshua2, joshua.fox@singinst.org Fox. “Safety Engineering For Artificial General Intelligence.” Topoi 32.2 (2013): 217-226.Humanities Source. Web. 1 Apr. 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 </description>
-        <pubDate>Mon, 28 Jul 2014 18:48:45 -0400</pubDate>
-        <link>http://joeyisnotcodemonkey.github.io/me/blog/jekyll/2014/07/28/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://joeyisnotcodemonkey.github.io/me/blog/jekyll/2014/07/28/welcome-to-jekyll/</guid>
+        <pubDate>Mon, 25 Apr 2016 17:55:45 -0400</pubDate>
+        <link>http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/research-proposal/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/research-proposal/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Literature Review on Artificial Intelligence Ethics</title>
+        <description>&lt;p&gt;The artificial intelligence is a hot-debated topic since this concept was came up decades ago. Not only the scientific progress that this field has approached during the past decades, but also a bunch of the great literatures such as movies and fictions published. Humans always dedicate for the power of the AI, while there are so many unsure and dangerous elements in this field, which made people are also fear about the power behind it. Recently, a very hot news brought our sights back to the artificial intelligence, which is the chess game held between the “Alphago” and Lee Seldo, who are the AI invented by google and one of the best human chess player in the world responsively. Alphago ended up won this game by a huge margin. This was a good opportunity to show how big progress scientists have achieved during past years, but at same time, there are lots of questioning voices raised up. Some people are more concerned about the safety of human future for their worries like one day artificial intelligence overpassed the power of human. So in this literature review, I am going to focus on the study of how to balance the AI ethics and the huge power behind it, and the results of related researches.&lt;/p&gt;
+
+&lt;p&gt;In the research “AI Ethics: Science Fiction Meets Technological Reality” (Daniel Zeng), it demonstrated that lots of great work contributed not only by scientific fields, but also in philosophy and literature. Big company and government gathered groups of researcher to develop ethics frameworks. The author claim that a legal and safe AI ethics were basically established rather than the immature AI system in old ages. He discussed 6 major thread concerning AI ethics. The first thread discussed about the most popular question that is whether AI will someday destroy human. He quoted from some great computer scientist such as Bill Gates to convey that AI will very likely terminate human age, worse still, AI is able to build themselves more and more powerful until eventually break the control by human. The second thread focused on the society conflicts such as the influence of automation on economy and employment. The research pointed out that the advantage is quite obvious such as the enhanced quality of goods. However, at same time the structure of employment in human world was seriously affected and will come up unstable elements in human society. The third thread questioned that whether human world legal system is also available to be applied to AI, and the answer is negative. It discussed some complicated scenario, especially the case of driverless car which is a hot project nowadays. The rest of three thread focused on the relationship between human and robots and rights for both. The research told us some companies used robots as weapon to against human, while sometimes robots are in the weaken position. And also the challenging relationship and ethics issue between human and humanoid robots was discussed. The author concluded that AI ethics is becoming increasingly close to us rather than a purely philosophical topic. People started to build more rules on the classic three laws of robotics. And the further enhancement of AI needs more development of AI ethic to support. This study is very up-to-date, we can see it from the case of driverless car. But limitation for this research is that it lacks of specific data to support his argument. For example, the second thread talked about the decreasing employment in human world. If a table or paragraph of data is provided, it would be more visual to readers. And also when the author talked about the robotic weapon in the fourth thread, he did not mention how bad the effect was and what people reacted after this event happened. The author claimed that “It’s safe to say that a new era of AI is coming”, but from the major thread he listed, some of them still have no solution yet, which conflicted with what he said at beginning of the paper.&lt;/p&gt;
+
+&lt;p&gt;In the research “Rise of Concerns about AI: Reflections and Directions” (Thomas G. Dietterich and Eric J. Horvitz) studied about the benefit and arising problems come with the AI, and the directions to the future. It first listed benefits that people have gained from the development of AI from the daily life to the academic field such as neurobiology and psychology. This research was mostly focus on the potential risk of the AI and the elements that can cause the AI loss its control. They summed up five classes of risk: bugs, cybersecurity, the “Sorcerer’s Apprentice”, shared autonomy and socioeconomic impacts. The research concluded that much more effort should be devoted if we want to use the power of the AI and the study should be open to public since sometimes it goes beyond pure science. There are certain limitation for studies in some of the categories and some conflicts that against their own conclusion. For example, the research pointed out that “computer scientists must continue to investigate and address concerns about the possibility of the loss of control of machine”. And also the end of the research claimed that deeper study is needed to understand AI. However, author also claimed “the risk of AI is  very small and far in the future” in the paragraph before where he talked about the first set of risks. Besides,  the second class – cybersecurity is more about a human influent element. This is not a typical case when study on the potential risk of AI compares to  the problem that AI itself comes up,  such as the “intelligence explosion” problem.&lt;/p&gt;
+
+&lt;p&gt;Unlike the most common voices such as limiting the power of the AI, the research paper “Safety Engineering for Artificial General Intelligence” (Roman Yampolskiy and Joshua Fox) proposed a new science of safety engineering for intelligent artificial agents based on maximizing the human value. Their study showed that Near-human AIs have the ability to upgrade themselves, which will cause the intelligence explosion for they can build higher level AI and recursively continue. The research mentioned the “three classic rules”, but the author believed that no such rules can capture every possible situation. Moreover, there are no rules can constrain AI when they are smarter than human. Even the cooperation will not work when a single intelligence is far more powerful than the other one. The author concluded that human morality was not needed to apply on the super intelligence but safety engineering did. The safety engineering is the subject that focus on preserving the essential humanity of their values, and prevent AIs to change themselves worse and recursively improve themselves. The author also warned that even though the power of AI should not be restricted while the research on it should be. Because the experiment will put human in danger without a safe design in advance. It also talked about robots’ rights. In conclusion, the author believed that AI safety needs to make progress rapidly both theoretically and practically. More experiments should be held under a safe design ahead. The research came up some really fantastic opinions, however, some of them conflicted with each other. It emphasis to make AI recursively improve the safety value that human gave to them while it is hard to predict and control once AI vastly overpass human. Besides, when the author talked about the rights of robots, he said that AI should not have same rights of human, but it will be no longer determined by human anymore when AI upgrades itself to superintelligence.&lt;/p&gt;
+
+&lt;p&gt;Next is a journal “Risks of General Artificial Intelligence” (Müller and Vincent C)  that basically summarized the topic of papers came from a conference on the ‘Impacts and Risks of Artificial General Intelligence’ on 10 and 11 December 2012. This journal pointed out that AI is much superior than human, moreover, it is able to improve itself in increasing speed. Two different voice rise up, one believed that the ultraintelligent machine would obey the human and tell us how to make them under control, while the other voice believed that they were a significant risk which could affect the existence of human. Some people thought that the AI study should stop if the stakes is about the human extinction, while others believed that for the next decades, human would increasingly rely on the strong AI. In conclusion,  the editor left a series of opening questions while he still believe that we are on the right track and the cautious progress is better than nothing. But we need to be very careful to the future studies on AI.  There is one claim “One possibility is that ‘the first ultraintelligent machine is the last invention that man need ever make, provided that the machine is docile enough to tell us how to keep it under control”, which has a logic error. Even though, the ultraintelligent machine turn out to be docile to human, it does not mean that AI can satisfy all needs from human. Some certain needs still require human being to create by ourselves.&lt;/p&gt;
+
+&lt;p&gt;To sum up, it is not difficult to see the huge progress that human have made in AI field. Meantime, scientists are also studying on the AI ethic to ensure the safety of human’s future. Even though many questions are still hanging on the air, however, terrific ideas comes up continuously and related safe experiments keep undergoing. I believe scientist will attain more achievement over next few decades, however the ethic behind it seems even harder than the technique itself. Let us hope that all human being are well prepared when the ultraintelligent machine really comes out one day.&lt;/p&gt;
+
+&lt;p&gt;References:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Zeng, Daniel. “AI Ethics: Science Fiction Meets Technological Reality.” IEEE Intelligent Systems 3 (2015): 2. Academic OneFile. Web. 1 Apr. 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Dietterich, Thomas G., and Eric J. Horvitz. “Rise of concerns about AI: reflections and directions.” Communications of the ACM 2015: 38. Academic OneFile. Web. 1 Apr. 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Yampolskiy, Roman1, roman.yampolskiy@louisville.edu, and Joshua2, joshua.fox@singinst.org Fox. “Safety Engineering For Artificial General Intelligence.” Topoi 32.2 (2013): 217-226.Humanities Source. Web. 1 Apr. 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Müller, Vincent C. “Risks Of General Artificial Intelligence.” Journal Of Experimental &amp;amp; Theoretical Artificial Intelligence 26.3 (2014): 297-301. Computer Source. Web. 1 Apr. 2016.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Mon, 25 Apr 2016 17:52:45 -0400</pubDate>
+        <link>http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/literature-review/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/literature-review/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>How to Change Guitar Strings</title>
+        <description>&lt;p&gt;You might think that changing guitar strings is an “impossible mission”, however, it is really not that complicated as you thought. As a guitarist, you should learn to change your guitar strings sooner or later, since you will need this skill when you buy a new guitar without strings on it or when strings are broken. Therefore, this guideline is going to teach you how to change acoustic guitar strings.&lt;/p&gt;
+
+&lt;h2 id=&quot;preparation&quot;&gt;Preparation:&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Required tools:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;A pack of new strings (Must be fit for acoustic guitars, instead of classic guitars or electric guitars).&lt;/li&gt;
+  &lt;li&gt;A guitar&lt;/li&gt;
+  &lt;li&gt;A scissor&lt;/li&gt;
+  &lt;li&gt;Guitar tuner (Tuning apps also work)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Suggested tools:&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;String cutter&lt;/li&gt;
+  &lt;li&gt;String winder (Usually with a cut-out on the back)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;part-1-remove-old-strings&quot;&gt;Part 1: Remove Old Strings&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Loosen all of the strings.  Counter-clockwisely wind the peg until you feel no more tension on the string (A suggested tool when you are doing this part is a string winder, which is easy to find in any music store).&lt;/li&gt;
+  &lt;li&gt;Use the scissor or string cutter to cut strings off. It does not matter where you cut them.
+Take all of the strings off the headstock. When you unwind strings from pegs, be careful to prevent them to fly often hitting you in the face.&lt;/li&gt;
+  &lt;li&gt;Remove all the bridge pins out. These pins are located on another end of strings to hook them onto inside of the guitar. You can remove them either by hand, or by suggested helping tools such as pin puller (Some string winder has a cut-out on the back, which fits underneath the pin and enables you to pull the pin out straight away). Once pins are out, just pull out the rest of strings.&lt;/li&gt;
+  &lt;li&gt;Clean your finger board. It is not a necessary procedure, but most of you might find that the neck gets quite dirty, especially if you not change strings often. Find a proper cleaner on guitar store if possible. Do not use excess amount of water or any other common household cleaners, which could damage your fingerboard easily. If you do not have any cleaner with you, a slightly dampened cotton cloth is suggested.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;part-2-change-new-strings&quot;&gt;Part 2: Change New Strings&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Prepare your new strings ready. Make sure the correct order of the new strings. Usually, strings are with different color of ball ends. If you look at the back in the pack, it will tell you what color corresponds to which peg hole.&lt;/li&gt;
+  &lt;li&gt;Insert the ball-end of the string into peg hole, then put the pin back into the hole. Put pressure down on the pin with your thumb, and pull the string through until you feel a nice and positive connection there.&lt;/li&gt;
+  &lt;li&gt;Stretch each string. You can lean the guitar against your leg with the fingerboard upward to get easier access to each turning key. Get the string ready, and adjust the hole on the tuning peg pointing up away from guitar. Fade the string through the hole, then grab the string and pull some slack through about five centimeters.&lt;/li&gt;
+  &lt;li&gt;Wrap the string around the top of the peg, and hold close onto the guitar. Your first finger should press the string down on the neck, and use your second finger keep a little bit of tension on the string. Next you can start to wind the peg until you feel a solid tension on the string. Make sure that the live part of string is going underneath the dead part. When you have completed this part, cut the rest dead part of string but leave about one centimeter. Bend that one centimeter part about 90 degree to make it look neat.&lt;/li&gt;
+  &lt;li&gt;Repeat above steps in part 2 for the rest of five strings.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;part-3-tuning-your-guitar&quot;&gt;Part 3: Tuning your guitar&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;You can use any tuning tool to proceed this part. However, I am going to introduce you a tuning app called “guitar tuna”, which is easy and free to operate for beginners.
+Download “guitar tuna” in app store.&lt;/li&gt;
+  &lt;li&gt;Set up the environment. A quiet space is required for this step. Put your phone on a table and make sure that the microphone on your phone are facing you. You can sit down in front of the table with your guitar.&lt;/li&gt;
+  &lt;li&gt;Choose the string that you are going to tune. For example, let us start from string E. Tap the letter “E” in the app. Now you can try to pick the E string, meanwhile, look at the pointer in the tuning interface. If the pointer is left to the middle red line, clockwisely wind the corresponding peg. If the pointer is right to the middle red line, counter-clockwisely wind the corresponding peg. Repeat this step until the pointer exactly points to the middle and a green check-off sign shows up,  which means this string is correctly tuned.&lt;/li&gt;
+  &lt;li&gt;Repeat step 3 for the rest of the strings.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;congratulations&quot;&gt;Congratulations!&lt;/h2&gt;
+&lt;p&gt;Enjoy to play your guitar with new strings.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Apr 2016 17:50:45 -0400</pubDate>
+        <link>http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/user-instruction/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/user-instruction/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Cover Letter</title>
+        <description>&lt;p&gt;6 Wellington Dr
+Stony Brook, NY 11790
+zewei.zhang.cs@gmail.com
+(631) 681-7606&lt;/p&gt;
+
+&lt;p&gt;February 8, 2016&lt;/p&gt;
+
+&lt;p&gt;Flexible Business Systems
+380 Oser Ave 
+Hauppauge, NY 11788&lt;/p&gt;
+
+&lt;p&gt;Dear Hiring Manager:&lt;/p&gt;
+
+&lt;p&gt;I am writing in response to your hiring information on Handshake for Software Engineer. I would like to apply as lead web developer in your company. As a current web developer at Stony Brook University, I am confident to say that I have many abilities to work with your company.&lt;/p&gt;
+
+&lt;p&gt;I am currently an undergraduate student at Stony Brook University and will be graduating this Nov with a B.S. in computer science. I started to work for Stony Brook University CS department as a web developer since last September. During that time, I was mainly responsible for the maintenance and upgrades of the CS department website. I also completed some projects from scratch with my colleagues, which require skills such as HTML, CSS, JavaScript, MySQL. There are couple of projects that came from my current work listed on my personal webpage. I am also sufficient in Java and C programming. I completed a online auction house project which strongly related to Java and database skills. I also wrote a multithreaded chat room in C programming language, which helped me build a strong networking background and coding ability.&lt;/p&gt;
+
+&lt;p&gt;At this stage, I engage to work for a company like yours that provides great opportunities to undergraduate students and facilitates them to develop and build on their existing skills. I have enclosed my resume for your review. I would welcome the further discussion with you in greater detail, and look forward to your response. Thank you for your time and consideration.&lt;/p&gt;
+
+&lt;p&gt;Sincerely,&lt;/p&gt;
+
+&lt;p&gt;ZHANG ZEWEI&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 25 Apr 2016 17:48:45 -0400</pubDate>
+        <link>http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/resume-and-cover-letter/</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/harmony/blog/jekyll/2016/04/25/resume-and-cover-letter/</guid>
         
         
         <category>blog</category>

@@ -1,27 +1,27 @@
 ---
-layout: page
+layout: about
 title: About me
 permalink: /about/
 ---
 
-Hi, I am Gayan Virajith, a developer (who works on the web) based on Sri Lanka. 
-Graduated from the University College Dublin (National University of Ireland). 
+Hi, I am Zewei Zhang. You can also call me Joey. I am currently studying at Stony Book University as computer science major, and specialize on software engineer. 
 
-I am Working for [template-factory.nl][tf] also known as [Mearch ICT][m].
-Prefer to serve with Php and Ruby based stacks and also love to work 
-on [Jekyll][jekyll] and [Processwire CMS/CMF][pw].
+I have done many projects in my academic career including game, java EE application, network programming and operating system. 
 
-### Contact me
+I am working for computer science department at Stony Brook University as a web developer. Therefore I am also sufficient in web programming skills from the front end to the back end. 
 
-Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say `Hello` at 
-[gayanvirajith@gmail.com](gayanvirajith@gmail.com).
+Out of my major, I love anything about music. I like to play guitar, cover my favorite songs, and sometimes make my own music. I once performed on a TV show, and that [vedio][vedio] has more than 40 million hit on the internet in China. 
+
+I also placed my resume and music blog here. Click to open or preview. 
 
 
-[tf]: http://template-factory.nl
-[m]: http://mearch.com
-[pw]: http://processwire.com
-[pwf]: http://processwire.com/talk
-[jekyll]: http://jekyllrb.com
-[github]: https://github.com/gayanvirajith
-[google]: https://plus.google.com/+GayanVirajith
-[twitter]: https://twitter.com/gayanvirajith
+[Resume][Resume] | [Music Blog][Music Blog]
+
+
+
+
+
+[Resume]: {{site.baseurl}}/resume.pdf
+[Music Blog]: http://changba.com/u/215172205
+[vedio]: http://www.iqiyi.com/v_19rrlb09qc.html#vfrm=2-3-0-1
+

@@ -1,19 +1,21 @@
 # Harmony Jekyll theme general configurations 
 
 # Base URL
+# baseurl: /harmony
 baseurl: /me
 
 # Site live URL
-url: http://joeyisnotcodemonkey.github.io
+# url: http://gayan.me
 
 # Localhost 
 # url: http://127.0.0.1:4000  
+url: https://github.com/JoeyIsNotCodeMonkey
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
-  name: Harmony
+  name: ZHANG ZEWEI
   # Little description about your site
-  description: Harmony is free responsive jekyll theme.
+  description: Software Engineer Student at Stony Brook University
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and 
   # in your feed.xml site description.
@@ -32,19 +34,16 @@ harmony:
 
   # Profile links, leave blank to ignore
   social: 
-    github: gayanvirajith
-    twitter: gayanvirajith
-    facebook: gayanvirajith
-    gplus: +GayanVirajith
-    dribble: gayan
-    pinterest: 
+    github: joeyisnotcodemonkey
+    facebook: 100004234416497
+    weibo: 5590600965
   # Toggle disclaimer in footer
   show_disclaimer: true
 
 # Conversion / Build settings 
 markdown:    kramdown
 # This is how you put pygments config in jekyll 2.0 instead of pygments: true
-#highlighter: pygments 
+highlighter: pygments 
 
 # Permalinks
 permalink:        pretty
