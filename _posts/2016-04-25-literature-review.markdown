@@ -6,7 +6,7 @@ description: My literature review assignment
 categories:
 - blog
 ---
-<br/>
+<p></p>
 
 The artificial intelligence is a hot-debated topic since this concept was came up decades ago. Not only the scientific progress that this field has approached during the past decades, but also a bunch of the great literatures such as movies and fictions published. Humans always dedicate for the power of the AI, while there are so many unsure and dangerous elements in this field, which made people are also fear about the power behind it. Recently, a very hot news brought our sights back to the artificial intelligence, which is the chess game held between the “Alphago” and Lee Seldo, who are the AI invented by google and one of the best human chess player in the world responsively. Alphago ended up won this game by a huge margin. This was a good opportunity to show how big progress scientists have achieved during past years, but at same time, there are lots of questioning voices raised up. Some people are more concerned about the safety of human future for their worries like one day artificial intelligence overpassed the power of human. So in this literature review, I am going to focus on the study of how to balance the AI ethics and the huge power behind it, and the results of related researches.
 
