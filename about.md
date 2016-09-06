@@ -21,5 +21,5 @@ I also placed my resume and music blog here. Click to open or preview.
 
 
 
-[Resume]: resume.pdf
+[Resume]: {{site.baseurl}}/resume.pdf
 [vedio]: http://www.iqiyi.com/v_19rrlb09qc.html#vfrm=2-3-0-1
