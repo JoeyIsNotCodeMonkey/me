@@ -2,10 +2,10 @@
 
 # Base URL
 # baseurl: /harmony
-baseurl: 
+baseurl: /me
 
 # Site live URL
-url: http://joeyisnotcodemonkey.github.io
+url: http://zewei.me
 
 # Localhost
 # url: http://127.0.0.1:4000
