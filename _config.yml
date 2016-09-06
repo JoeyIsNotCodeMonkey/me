@@ -5,11 +5,10 @@
 baseurl: /me
 
 # Site live URL
-url: http://zewei.me
+url: http://joeyisnotcodemonkey.github.io
 
 # Localhost
 # url: http://127.0.0.1:4000
-#url: http://joeyisnotcodemonkey.github.io
 
 # Harmony theme configuration. Please change accordingly.
 harmony:
