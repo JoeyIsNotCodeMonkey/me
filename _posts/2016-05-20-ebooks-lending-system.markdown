@@ -31,3 +31,4 @@ The eBooks system should contain the following major subsystems:
 
 ### Related Document
 > [Requirement Document]({{site.baseurl}}/cse308/RequiremetDocument.pdf)
+> [User case]({{site.baseurl}}/cse308/Usercase.pdf)
