@@ -29,6 +29,23 @@ The eBooks system contains the following major subsystems:
 7. All interface screens have the same look and feel, although differing look and feels can be provided for different types of users (e.g., faculty and staff).
 8. The system is able to accommodate the number of accesses consistent with a small number of simultaneous users.
 
+## Screen shots
+I will display some sample function as followed:
+
+Home:
+![home1]({{site.baseurl}}/cse308/home1.png)
+![home2]({{site.baseurl}}/cse308/home2.png)
+
+Login as administrator:
+![admin]({{site.baseurl}}/cse308/admin.png)
+
+Login as member:
+![member]({{site.baseurl}}/cse308/member.png)
+
+Book Page:
+![borrow]({{site.baseurl}}/cse308/borrow.png)
+
+
 ### Related Document
 * [Requirement Document]({{site.baseurl}}/cse308/RequiremetDocument.pdf)
 * [User case]({{site.baseurl}}/cse308/Usercase.pdf)
