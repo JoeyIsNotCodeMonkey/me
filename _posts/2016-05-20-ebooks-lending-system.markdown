@@ -30,5 +30,6 @@ The eBooks system should contain the following major subsystems:
 8. The system is able to accommodate the number of accesses consistent with a small number of simultaneous users.
 
 ### Related Document
-> [Requirement Document]({{site.baseurl}}/cse308/RequiremetDocument.pdf)
-> [User case]({{site.baseurl}}/cse308/Usercase.pdf)
+* [Requirement Document]({{site.baseurl}}/cse308/RequiremetDocument.pdf)
+* [User case]({{site.baseurl}}/cse308/Usercase.pdf)
+* [Link to Github](https://github.com/BobZcao/CSE308SB)
