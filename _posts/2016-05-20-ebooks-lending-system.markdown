@@ -11,7 +11,7 @@ categories:
 The purpose of the system is to build a system that will contain information about current electronic books (including audio books).
 
 ## System
-The eBooks system should contain the following major subsystems:
+The eBooks system contains the following major subsystems:
 
 1. GUI - the system will include a Web user interface in which users (readers, library members, eBook publishers (e.g., Penguin Books, and other user groups involved with books) interact with the system. A GUI can be used to enter some associated data (e.g., movies) and provide information concerning current use of the system. At a minimum, the system will include the provisions for site administrators to update and correct information in the database.
 2. Reporting Module - the system includes reports that summarize the data. Reports will provide administrators with information concerning the electronic book inventory and purchasing patterns. At a minimum, the reports contain enough information to allow administrators to manage their inventory. For example, reports showing patterns in the number of requests are essential.
