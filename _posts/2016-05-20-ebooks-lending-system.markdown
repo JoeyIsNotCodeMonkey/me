@@ -7,18 +7,19 @@ categories:
 - project
 ---
 
-# Purpose of System
+## Purpose of System
 The purpose of the system is to build a system that will contain information about current electronic books (including audio books).
 
-# System
+## System
 The eBooks system should contain the following major subsystems:
+
 1. GUI - the system will include a Web user interface in which users (readers, library members, eBook publishers (e.g., Penguin Books, and other user groups involved with books) interact with the system. A GUI can be used to enter some associated data (e.g., movies) and provide information concerning current use of the system. At a minimum, the system will include the provisions for site administrators to update and correct information in the database.
 2. Reporting Module - the system should include reports that summarize the data. Reports will provide administrators with information concerning the electronic book inventory and purchasing patterns. At a minimum, the reports should contain enough information to allow administrators to manage their inventory. For example, reports showing patterns in the number of requests are essential.
 3. Interfaces - The system will include interfaces to external systems (e.g., e-book delivery systems, etc.). You should include a skeleton implementation of these systems to allow for adequate testing.
 4. Database - Data used by the system should be contained in a database. At a minimum, this data includes information on content and users.
 5. Database batch update - you should include the ability to update the database both manually (through a GUI) and through an automatic database update module whenever you identify an electronic data source for information in the DB.
 
-# System Issues
+## System Issues
 1. The user interface for all users will be a Web interface.
 2. The system should run on a hardware server that supports a Java EE Web Container ( Java 8.0 and above and JSP 2.0 and above).
 3. The system must work for current releases of Safari, Chrome, Firefox, and IE browsers.
