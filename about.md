@@ -10,7 +10,7 @@ I have done many projects in my academic career including game, java EE applicat
 
 I am working for computer science department at Stony Brook University as a web developer. Besides, I am also the web developer of Perfume Worldwide Inc. My working experience facilitated me to be sufficient in web programming skills from the front-end to the back-end.
 
-Out of my major, I love anything about music. I like to play guitar, cover my favorite songs, and sometimes make my own music. I once performed on a TV show, and that [vedio][vedio] has more than 40 million hit on the internet in China.
+Out of my major, I love anything about music. I like to play guitar, cover my favorite songs, and sometimes make my own music. I once performed on a TV show, and that [video][video] has more than 40 million hit on the internet in China.
 
 I also placed my resume here. Click to open and preview.
 
@@ -22,4 +22,4 @@ I also placed my resume here. Click to open and preview.
 
 
 [Resume]: {{site.baseurl}}/resume.pdf
-[vedio]: http://www.iqiyi.com/v_19rrlb09qc.html#vfrm=2-3-0-1
+[video]: http://www.iqiyi.com/v_19rrlb09qc.html#vfrm=2-3-0-1
