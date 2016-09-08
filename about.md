@@ -8,14 +8,14 @@ Hi, I am Zewei Zhang. You can also call me Joey. I am currently studying at Ston
 
 I have done many projects in my academic career including game, java EE application, network programming and operating system.
 
-I am working for computer science department at Stony Brook University as a web developer. Therefore I am also sufficient in web programming skills from the front end to the back end.
+I am working for computer science department at Stony Brook University as a web developer. Besides, I am also the web developer of Perfume Worldwide Inc. My working experience facilitated me to be sufficient in web programming skills from the front-end to the back-end.
 
 Out of my major, I love anything about music. I like to play guitar, cover my favorite songs, and sometimes make my own music. I once performed on a TV show, and that [vedio][vedio] has more than 40 million hit on the internet in China.
 
-I also placed my resume and music blog here. Click to open or preview.
+I also placed my resume here. Click to open and preview.
 
 
-[Resume][Resume]
+* [Resume][Resume]
 
 
 

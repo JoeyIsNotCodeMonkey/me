@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Project archive
+permalink: /projects/
 ---
 <div class="page-content wc-container">
   <h1>Project Archive</h1>  
