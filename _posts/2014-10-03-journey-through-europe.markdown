@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Journey Through Europe"
-date:   2016-09-15 22:24:25
+date:   2014-11-15 22:24:25
 description: A Strategic card board game
 categories:
 - project
