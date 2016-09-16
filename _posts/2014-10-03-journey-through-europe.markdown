@@ -29,6 +29,6 @@ Here are some screen shots for the game:
 ### Playing Game
 ![game]({{site.baseurl}}/cse219/game.png)
 
-As you can see, the UI is very poor since I took too many classes that semester. I usually will not let my projects with a bad looking, but this is one of the exception due to my overloaded schedule. 
+As you can see, the UI is very poor since I took too many classes that semester. I usually will not leave my projects with a bad looking, but this is one of the exception due to my overloaded schedule. 
 
 This projects enhanced my Java programming skill to level 8 out of 10. I had so much fun when I was doing it. 
