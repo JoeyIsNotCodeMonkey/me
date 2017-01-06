@@ -4,13 +4,11 @@ title: About me
 permalink: /about/
 ---
 
-Hi, I am Zewei Zhang. You can also call me Joey. I am currently studying at Stony Book University as computer science major, and specialize on software engineer.
+Hi! My name is Zewei Zhang. I recently graduated from Stony Brook university with the degree of Bachelor of science. I am currently looking for full-time software engineer positions.
 
-I have done many projects in my academic career including game, java EE application, network programming and operating system.
+I worked for CS department at Stony Brook University as a web developer since September 2015. My job responsibility was mainly maintaining and upgrading department websites including both front-end content and the backend database. I completed many projects from scratch with my colleagues, which require skills such as HTML, CSS, JavaScript, JQuery, PHP and MySQL. Besides, I was a TA for a Java Introduction class in 2015. 
 
-I am working for computer science department at Stony Brook University as a web developer. Besides, I am also the web developer of Perfume Worldwide Inc. My working experience facilitated me to be sufficient in web programming skills from the front-end to the back-end.
-
-Out of my major, I love anything about music. I like to play guitar, cover my favorite songs, and sometimes make my own music. I once performed on a TV show, and that [video][video] has more than 40 million hit on the internet in China.
+During my academic year, I did excellent jobs on course projects. I am sufficient in Java and C programming after finished many corresponding projects such as an e-Book lending system (J2EE and Database), Nachos (Java simulated operating system) and chat room (network programming in C). I am also very self-motivated to learn the most up-to-date framework such as AngularJS. 
 
 I also placed my resume here. Click to open and preview.
 
