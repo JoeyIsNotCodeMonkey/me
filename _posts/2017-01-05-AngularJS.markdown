@@ -7,7 +7,7 @@ categories:
 - project
 ---
 
-Details are included in the README file, click the link below to direct to the project.
+This is an AngularJS practice project. Details are included in the README file, click the link below to direct to the project.
 
 ### Related Document
 * [Link to Github](https://github.com/JoeyIsNotCodeMonkey/AngularJS-Demo)
