@@ -14,12 +14,12 @@ url: http://zewei.me
 harmony:
   name: ZHANG ZEWEI
   # Little description about your site
-  description: Software Engineer Student at Stony Brook University
+  description: Software Engineer 
   # 'meta_description:' Write an awesome description for your new site here.
   # It will appear in your document head meta (for Google search results) and
   # in your feed.xml site description.
   meta_description: > #
-   Software Engineer Student at Stony Brook University
+   Personal website
   basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
 
   # Google Analytics key, leave blank to ignore
@@ -28,7 +28,7 @@ harmony:
   # Profile links, leave blank to ignore
   social:
     github: joeyisnotcodemonkey
-    linkedin: zewei-zhang-296864ab
+    linkedin: zewei-zhang
     facebook: 100004234416497
     weibo: 5590600965
   # Toggle disclaimer in footer
